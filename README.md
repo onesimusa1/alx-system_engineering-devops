@@ -1,1 +1,2 @@
-My current working directory
+TASK 0. Where am I?
+
