@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -1 ls iacta >> iacta
+tail -1 ls -la >> ls_cwd_content
